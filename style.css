@@ -12,6 +12,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     background-image: url("images/bluebackground.jpg");
+    background-color: #2596be;
     background-repeat: repeat;
 }
 .wrapper {
